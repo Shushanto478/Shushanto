@@ -63,3 +63,8 @@ footer p {
 a {
   text-decoration: none
 }
+h6 {
+  background: yellowgreen;
+  text-align: center;
+  padding: 20px;
+}
