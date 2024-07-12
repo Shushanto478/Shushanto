@@ -58,13 +58,20 @@ footer {
   text-align: center
 }
 footer p {
-  font-size: 10px;
+  font-size: 12px;
+  font-family: Georgia, serif;
 }
 a {
   text-decoration: none
 }
-h6 {
+h3 {
   background: yellowgreen;
   text-align: center;
   padding: 20px;
+  font-size: 10px;
+  font-family: fantasy;
+}
+section p {
+font-family: cursive;
+font-size: 18.62px
 }
